@@ -7,18 +7,18 @@ El cliente solicita la creación de una página web donde el usuario pueda crear
 <br>
 
 * ### Administrador
-Contar con un dashboard que permita las funcionalidades:
-  -Gestion de usuarios (administrar altas, bajas, suspensiones de servicio)
-  -Gestionar los pagos realizados por los clientes
-  -Seguimiento del soporte tecnico ( instalaciones, retiro de equipo, mantenimiento preventivo y correctivo)
+Contar con un dashboard que permita las funcionalidades:<br>
+  -Gestion de usuarios (administrar altas, bajas, suspensiones de servicio)<br>
+  -Gestionar los pagos realizados por los clientes<br>
+  -Seguimiento del soporte tecnico ( instalaciones, retiro de equipo, mantenimiento preventivo y correctivo)<br>
   -Ajustes en las metricas de los equipos (tiempo de vida del equipo, insumos)
   
 * ### Cliente 
-Contar con un dashboard para el usuario:
-  -El usuario se podra registrar de acuerdo a su numero de contrato
-  -Poder realizar pagos de manera periodica o manual 
+Contar con un dashboard para el usuario:<br>
+  -El usuario se podra registrar de acuerdo a su numero de contrato<br>
+  -Poder realizar pagos de manera periodica o manual<br>
   -podra contar con la informacion de su perfil y ´podra actulizar esta de ser necesario 
-  -un area de servicios donde podra agendar citas con la empresa para poder extender el contrato para mas equipos
+  -un area de servicios donde podra agendar citas con la empresa para poder extender el contrato para mas equipos<br>
   -Soporte tecnico para poder hacer la revision de los equipos o en caso de fallas
   
 * ### Publico general
