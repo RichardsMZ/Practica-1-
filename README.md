@@ -24,4 +24,14 @@ Contar con un dashboard para el usuario:<br>
 * ### Publico general
 Web responsive donde podran ponerse en contacto con la empresa para informacion de los servicios e informacion general de la empresa, ubicacion. Contar con un banner de rede sociales y ubicacion en Google Maps 
 
+* ### Diagrama de Flujos 
+
+* ### Buyer Persona
+  
+* ### Publico Objetivo 
+ 
+* ### Diseño UX
+ 
+* ### Diseño UI 
+
 
