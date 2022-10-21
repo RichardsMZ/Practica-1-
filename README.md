@@ -24,7 +24,8 @@ Contar con un dashboard para el usuario:<br>
 ### Publico general
 Web responsive donde podran ponerse en contacto con la empresa para informacion de los servicios e informacion general de la empresa, ubicacion. Contar con un banner de rede sociales y ubicacion en Google Maps 
 
-### Diagrama de Flujos 
+### Diagrama de Flujo <br>
+![Diagrama de Flujo](https://github.com/RichardsMZ/Practica-1-/blob/main/images/Flowchart.PNG)
 
 ### Buyer Persona
   
