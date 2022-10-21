@@ -24,14 +24,18 @@ Contar con un dashboard para el usuario:<br>
 ### Publico general
 Web responsive donde podran ponerse en contacto con la empresa para informacion de los servicios e informacion general de la empresa, ubicacion. Contar con un banner de rede sociales y ubicacion en Google Maps 
 
-### Diagrama de Flujo <br>
+### Diagrama de Flujo<br>
 ![Diagrama de Flujo](https://github.com/RichardsMZ/Practica-1-/blob/main/images/Flowchart.PNG)
 
-### Buyer Persona
+### Buyer Persona<br>
+![Buyer Persona](https://github.com/RichardsMZ/Practica-1-/blob/main/images/Buyer_persona.PNG)
   
-### Publico Objetivo 
+### Publico Objetivo<br>
+![Publico Objetivo](https://github.com/RichardsMZ/Practica-1-/blob/main/images/Publico_Objetivo.PNG)
  
-### Diseño UX
+### Diseño UX<br>
+![Diseño UX](https://github.com/RichardsMZ/Practica-1-/blob/main/images/Web_Desktop.PNG)
+![Diseño UX](https://github.com/RichardsMZ/Practica-1-/blob/main/images/Web_Mobile.PNG)
  
 ### Diseño UI 
 
